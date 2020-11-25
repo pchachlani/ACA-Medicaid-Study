@@ -1,7 +1,8 @@
 # ACA-Medicaid-Study
 #### This code uses data from BRFSS to study the effects of ACA Medicaid Expansion on self reported Health Outcomes.
 #### Implemented the difference-in-difference econometrics technique in STATA for the hypothesis
-#### The objective of my project was to study the effects of ACA medicaid expansion
+#### 
+The objective of my project was to study the effects of ACA medicaid expansion
 on self reported health outcomes. The main purpose of ACA medicaid was to
 provide affordable health insurance and to cover all adults with income below
 138% FPL. ACA was proposed in 2010 and in 2012 it was made optional for states
